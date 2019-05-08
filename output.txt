@@ -1,5 +1,18 @@
-Amex	93479.83
-Visa	105558.2
-Discover	97172.73
-MasterCard	94885.53
-Cash	100726.37
+DVDs	0
+Music	0
+Sporting Goods	0
+Men's Clothing	0
+Health and Beauty	0
+Books	0
+Cameras	0
+Consumer Electronics	0
+Pet Supplies	0
+CDs	0
+Crafts	0
+Garden	0
+Toys	1
+Baby	0
+Computers	1
+Video Games	0
+Children's Clothing	0
+Women's Clothing	0
